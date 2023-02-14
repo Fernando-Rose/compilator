@@ -1,2 +1,2 @@
 # compilador
-compilador con JLex
+compilator with JLex
